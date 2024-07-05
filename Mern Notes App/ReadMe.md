@@ -1,5 +1,5 @@
 **Notes Making Mern App**
-This note making help to make notes quikly
+This note making app helps to make notes quikly
 **Here is some screenshots**
 ![Edit page](https://github.com/vigneshvicky2/Verve_Bridge/assets/107059364/b94a7abf-fc8b-4340-9e3b-fa767176e24d)
 ![Home page](https://github.com/vigneshvicky2/Verve_Bridge/assets/107059364/a0edc167-0946-40e7-b0be-61a100ae44c1)
