@@ -1,0 +1,1 @@
+Hi This is the text from linux command using touch and nano.
